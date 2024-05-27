@@ -6,5 +6,3 @@
 ## https://discord.gg/2TvEtRs8Mg
 
 ![Me](https://cdn.discordapp.com/attachments/1238388911722729472/1241393922249588890/screenshot.jpg?ex=66553e6f&is=6653ecef&hm=ab09a38968d25fb28767774b6d37234c4fac5bd6f701abff0f0e319846ae1448&)
-
-![Example]([https://discord-profile-starcea.paring.moe/discord/1230416403706675220?])
