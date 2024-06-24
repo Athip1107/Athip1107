@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello Im Athip</h1>
 <br />
 <br />
-<p align="center"><b>🏙 I live in Tehran, Iran</b></p>
+<p align="center"><b>🏙 I live in Thailand</b></p>
 <br />
 <br />
 
