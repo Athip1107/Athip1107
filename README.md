@@ -29,10 +29,6 @@
     alt="CSS"
     src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"
   />
-  <img
-    alt="NodeJs"
-    src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"
-  />
 </div>
 <br />
 
