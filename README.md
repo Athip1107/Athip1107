@@ -7,8 +7,8 @@
 
 <div align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=KiaNu-ReeVes&label=Profile%20views&color=3D424A&style=for-the-badge&"
-    alt="KiaN"
+    src="https://komarev.com/ghpvc/?username=Athip1107&label=Profile%20views&color=3D424A&style=for-the-badge&"
+    alt="Athip"
   />
 </div>
 
