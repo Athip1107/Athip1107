@@ -49,7 +49,7 @@
       src="http://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=FFFFFF"
     />
   </a>
-  <a href="https://discord.gg/">
+  <a href="https://discord.com/users/1167039438971486293">
     <img
       align="center"
       alt="Athip | Discord"
